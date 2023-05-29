@@ -40,15 +40,13 @@
   <section id="hero">
     <div class="hero container">
 
-        <div class="about-img">
-          <img src="mypic1.jpeg" alt="img" style="height: 350px; width: 275px; margin-right: 5%;" >
-        </div>
-        <br>
-      <div class="info" >
-        <h1 style="margin-left:7%;">About Me: <span></span></h1>
+      <div class="about-img">
+          <img src="mypic1.jpeg" alt="img" style="height: 350px; width: 275px; margin: 0 38%; border-radius:15%;" >
+          <br>
+        <h1 style="margin-left:7%; margin-top:5%">About Me: <span></span></h1>
 
         <p style="margin-left:50px; color: White; font-size: 1.4rem; margin-top: 5px; line-height: 2.5rem; font-weight: 300;  letter-spacing: 0.05rem;">I'm now enrolled in Old Dominion University's Master of Computer Science program. As an ambitious and hard-working individual, I am often recognized for my commitment and ability by highly respected Professors.I handle multiple tasks on a daily basis competently, working well under the pressure.I would welcome the opportunity to discuss my suitability in more detail</p>
-	<a href="Sujitha.pdf" type="button" class="cta" style="margin-left: 100px">Download Resume</a>
+	<a href="Sujitha.pdf" type="button" class="cta" style="margin-left: 35%">Download Resume</a>
         <!--<a href="#projects" type="button" class="cta">Portfolio</a>-->
       </div>
     </div>
