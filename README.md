@@ -16,7 +16,7 @@
         <div class="brand">
           
         </div>
-		
+	</div>	
         <div class="nav-list">
           <div class="hamburger">
             <div class="bar"></div>
